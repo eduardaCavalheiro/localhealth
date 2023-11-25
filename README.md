@@ -16,4 +16,6 @@
 
 > [!Note]
  <p align="center"> [Integrantes] </p>
-Eduarda Nicoli Cavalheiro
+> Eduarda Nicoli Cavalheiro
+> Ingrid
+> Erik
