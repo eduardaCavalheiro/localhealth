@@ -9,5 +9,6 @@
  <p> >Estamos comprometidos em criar uma solução que não só simplifica o rastreamento de doenças, mas também proporciona uma compreensão abrangente para lidar com os desafios da saúde pública. Com isso, podemos transformar a maneira como detectamos e respondemos a novas epidemias, promovendo um mundo mais seguro para todos.</p>
  
 
-> [!Integrantes]
+> [!Note]
+> [Integrantes]
 > Highlights information that users should take into account, even when skimming.
