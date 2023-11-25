@@ -2,9 +2,11 @@
 <h1 align="center"> Local Health 🔍 </h1>
 # <h2 align="center" color="pink"> **Descrição do Projeto**</h2>
 
-<p align="center">
-<img loading="lazy" src="[http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge](https://img.shields.io/badge/status%3A-concluido-green](https://img.shields.io/badge/status%3A-conclu%C3%ADdo-green)"/>
+
+ <p align="center">
+<img loading="lazy" src="https://img.shields.io/badge/status%3A-conclu%C3%ADdo-green"/>
 </p>
+
 ![Badge em Desenvolvimento]([https://img.shields.io/badge/status%3A-concluido-green](https://img.shields.io/badge/status%3A-conclu%C3%ADdo-green))
 <br>
 
