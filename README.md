@@ -1,4 +1,5 @@
-<h1> Local Health 🔍</h1>
+
+<h1 align="center"> Local Health 🔍 </h1>
  [Cadastrar](#Descricão-Projeto)
 
 <br>
