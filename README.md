@@ -1,6 +1,6 @@
 <h1> Local Health 🔍</h1>
 
-<li> [Descrição do Projeto]</li>
+<li> <ul>[Descrição do Projeto]</ul></li>
 
 <p>A Localização precisa e quando se iniciam novas epidemias pode ser uma dificuldade por diversos motivos atualmente. Fatores como áreas de subnotificação, sintomas genéricos e surtos esporádicos tornam essa tarefa complexa para a saúde pública. Compreendendo essa dificuldade, estamos propondo um sistema inovador para enfrentar esse cenário. </p>
 <p> >Neste sistema, os médicos registram os diagnósticos dos pacientes junto a sua localização e data em um banco de dados centralizado. Essas informações permitiriam um monitoramento detalhado, revelando quando e onde surgem novos surtos.</p>
