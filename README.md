@@ -15,5 +15,5 @@
  
 
 > [!Note]
-> [Integrantes]
-> Eduarda Nicoli Cavalheiro
+ <p align="center"> [Integrantes] </p>
+Eduarda Nicoli Cavalheiro
