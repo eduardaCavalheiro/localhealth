@@ -1,6 +1,6 @@
 
 <h1 align="center"> Local Health 🔍 </h1>
-<h2 align="center" style=color: blue> Descrição do Projeto </h2>
+<h2 align="center" style="color: blue;"> Descrição do Projeto </h2>
 
 
  <p align="center">
