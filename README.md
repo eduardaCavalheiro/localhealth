@@ -1,5 +1,5 @@
 <h1> Local Health 🔍</h1>
- - [Cadastrar](#cadastrar-despesa)
+ [Cadastrar](#cadastrar-despesa)
 
 <br>
 
