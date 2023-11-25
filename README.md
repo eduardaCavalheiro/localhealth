@@ -16,4 +16,4 @@
 
 > [!Note]
 > [Integrantes]
-> Highlights information that users should take into account, even when skimming.
+> Eduarda Nicoli Cavalheiro
