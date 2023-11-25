@@ -16,6 +16,7 @@
 
 > [!Note]
  <p align="center"> [Integrantes] </p>
+>
 > Eduarda Cavalheiro - RM95854
 > Ingrid - RM95396
 > Erik - RM93535
