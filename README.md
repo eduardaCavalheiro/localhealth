@@ -1,5 +1,6 @@
 <h1> Local Health 🔍</h1>
-# :centered: Descrição do Projeto :centered:
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Descrição do Projeto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
 
 
 <p>A Localização precisa e quando se iniciam novas epidemias pode ser uma dificuldade por diversos motivos atualmente. Fatores como áreas de subnotificação, sintomas genéricos e surtos esporádicos tornam essa tarefa complexa para a saúde pública. Compreendendo essa dificuldade, estamos propondo um sistema inovador para enfrentar esse cenário. </p>
