@@ -4,7 +4,7 @@
 
 
  <p align="center">
- > <img loading="lazy" src="https://img.shields.io/badge/status%3A-conclu%C3%ADdo-green"/>
+<img loading="lazy" src="https://img.shields.io/badge/status%3A-conclu%C3%ADdo-green"/>
 </p>
 
 
