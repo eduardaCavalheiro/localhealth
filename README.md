@@ -16,7 +16,8 @@
 
 > [!NOTE]
  <p align="center"> [Integrantes] </p>
->
-> Eduarda Cavalheiro - RM95854
-> Ingrid - RM95396
-> Erik - RM93535
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | RM95854 | RM95396:
+Valor | Valor | Valor
+
+
