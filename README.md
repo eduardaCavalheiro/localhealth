@@ -24,6 +24,7 @@ forma, será possível obter informações e observar se existe relação entre
 Doença x Local, além de ser capaz de monitorar o aumento no número de casos e quando esse crescimento teve início;
   
 > [!NOTE]
+> Todos os itens citados serão armazenados no banco de dados;
 
 
 
