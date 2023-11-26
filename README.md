@@ -21,7 +21,12 @@
 
 > [!NOTE]
  <p align="center"> [Integrantes] </p>
-Alinhado a esquerda | Centralizado | Alinhado a direita
-| rm93535 |  rm95854 | rm95396 |
+ 
+ Caracter | Permissão
+    ---------|----------
+    `r`      | Permissão de leitura (*read*)
+    `w`      | Permissão de escrita (*write*)
+    `x`      | Permissão de execução (*execute*)
+    `-`      | Permissão desabilitada
 
 
