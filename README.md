@@ -24,8 +24,8 @@
 
 ### [Integrantes]
 
-> Eduarda
+> Eduarda Cavalheiro | RM95854
 > 
-> Erik
+> Erik Siarkowski | RM93535
 > 
-> Ingrid
+> Ingrid Vieira | RM95396
