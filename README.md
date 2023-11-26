@@ -15,8 +15,6 @@
 <br>
 <br>
 
-### Teste
-
  # :hammer: Funcionamento
 
 - `Como Funciona`: descrição da funcionalidade 1
