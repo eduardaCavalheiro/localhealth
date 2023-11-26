@@ -24,7 +24,7 @@ Doença x Local, além de ser capaz de monitorar o aumento no número de casos e
 <br>
 
 ---
-
+<br>
 <h3 align="center"> [Integrantes] </h3>
 
 |       Nome         |   RM   |  Turma  |
