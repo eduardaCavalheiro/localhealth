@@ -22,6 +22,10 @@
 > [!NOTE]
  <p align="center"> [Integrantes] </p>
  
-   |nome|rm|sala|
+   |Nome|Rm|Sala|
 | -------- | -------- | -------- |
 |Eduarda Cavalheiro|95854| 2TDSPG|
+| -------- | -------- | -------- |
+|Erik Siarkvoski|93535| 2TDST|
+| -------- | -------- | -------- |
+|Ingrid Vieira|95396| 2TDSPG|
