@@ -22,14 +22,12 @@ virais dos pacientes, qual local em que foi identificada e os sintomas que o pac
 forma, será possível obter informações e observar se existe relação entre 
 Doença x Local, além de ser capaz de monitorar o aumento no número de casos e quando esse crescimento teve início;
 <br>
-
-
 <br>
 <h3 align="center"> [Integrantes] </h3>
 
 
 
-|    Nome            |   RM   |  Turma  |
+|       Nome         |   RM   |  Turma  |
 |:------------------:|:------:|:-------:|
 | Eduarda Cavalheiro | 95854  | 2TDSPG  |
 | Erik Siarkowski    | 93535  | 2TDST   |
