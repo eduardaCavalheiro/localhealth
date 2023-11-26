@@ -20,7 +20,7 @@
 - `Como Funciona`: descrição da funcionalidade 1
   
 > [!NOTE]
-> align="center" [Integrantes] 
+> [Integrantes] 
 
 
  
