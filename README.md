@@ -22,7 +22,7 @@
 > [!NOTE]
  <p align="center"> [Integrantes] </p>
  
- Caracter | Permissão
+    Caracter | Permissão
     ---------|----------
     `r`      | Permissão de leitura (*read*)
     `w`      | Permissão de escrita (*write*)
