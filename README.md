@@ -21,9 +21,6 @@
 virais dos pacientes, qual local em que foi identificada e os sintomas que o paciente relatou. Dessa 
 forma, será possível obter informações e observar se existe relação entre 
 Doença x Local, além de ser capaz de monitorar o aumento no número de casos e quando esse crescimento teve início;
-  
-> [!NOTE]
-> Todos os itens citados serão armazenados no banco de dados;
 
 
 <h3 align="center"> [Integrantes] </h3>
@@ -35,3 +32,6 @@ Doença x Local, além de ser capaz de monitorar o aumento no número de casos e
 > Erik Siarkowski | RM93535 | 2TDST
 > 
 > Ingrid Vieira | RM95396 | 2TDSPG
+
+> [!NOTE]
+> Todos os itens citados serão armazenados no banco de dados;
