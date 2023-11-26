@@ -14,7 +14,7 @@
 <br>
 <br>
 
-# :hammer: Como funciona
+ :hammer: Como funciona
 
 
 - Durante uma consulta, o médico irá registrar casos de doenças 
