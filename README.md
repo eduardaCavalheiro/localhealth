@@ -22,11 +22,9 @@
 > [!NOTE]
  <p align="center"> [Integrantes] </p>
  
-    Caracter | Permissão
+      Nome   | RM
     ---------|----------
-    `r`      | Permissão de leitura (*read*)
-    `w`      | Permissão de escrita (*write*)
-    `x`      | Permissão de execução (*execute*)
-    `-`      | Permissão desabilitada
-
+    Eduarda  | 95854
+    Erik     | 93535
+    Ingrid   | 95396
 
