@@ -28,7 +28,7 @@ Doença x Local, além de ser capaz de monitorar o aumento no número de casos e
 
 
 
-<center> [Integrantes] </center>
+### <center> [Integrantes] </center>
 
 
 > Eduarda Cavalheiro | RM95854 | 2TDSPG
