@@ -1,11 +1,11 @@
 
 <h1 align="center">Local Health 🔍</h1>
-<h2 align="center">Descrição do Projeto </h2>
-
 
  <p align="center">
 <img loading="lazy" src="https://img.shields.io/badge/status%3A-conclu%C3%ADdo-green"/>
 </p>
+
+<h2 align="center">Descrição do Projeto </h2>
 <br>
 
 <p> A Localização precisa e quando se iniciam novas epidemias pode ser uma dificuldade por diversos motivos atualmente. Fatores como áreas de subnotificação, sintomas genéricos e surtos esporádicos tornam essa tarefa complexa para a saúde pública. Compreendendo essa dificuldade, estamos propondo um sistema inovador para enfrentar esse cenário. </p>
