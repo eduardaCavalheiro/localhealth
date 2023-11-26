@@ -29,8 +29,8 @@ Doença x Local, além de ser capaz de monitorar o aumento no número de casos e
 
 ### [Integrantes]
 
-> Eduarda Cavalheiro | RM95854
+> Eduarda Cavalheiro | RM95854 | 2TDSPG
 > 
-> Erik Siarkowski | RM93535
+> Erik Siarkowski | RM93535 | 2TDST
 > 
-> Ingrid Vieira | RM95396
+> Ingrid Vieira | RM95396 | 2TDSPG
