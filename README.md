@@ -15,7 +15,7 @@
 <br>
 <br>
 
-# :hammer: Como será implementado
+# :hammer: Como funciona
 
 
 - Durante uma consulta, o médico irá registrar casos de doenças 
