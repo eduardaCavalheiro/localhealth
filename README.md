@@ -20,9 +20,9 @@
 - `Como Funciona`: descrição da funcionalidade 1
   
 > [!NOTE]
->
+>  <p align="center">  [Integrantes] </p> 
 
- <p align="center"> [Integrantes] </p>
+
  
    |Nome|Rm|Sala|
 | -------- | -------- | -------- |
