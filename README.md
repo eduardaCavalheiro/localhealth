@@ -18,8 +18,10 @@
  # :hammer: Funcionamento
 
 - `Como Funciona`: descrição da funcionalidade 1
+  
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+>
+
  <p align="center"> [Integrantes] </p>
  
    |Nome|Rm|Sala|
