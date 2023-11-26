@@ -1,7 +1,6 @@
-
 <h1 align="center">Local Health 🔍</h1>
 
- <p align="center">
+<p align="center">
 <img loading="lazy" src="https://img.shields.io/badge/status%3A-conclu%C3%ADdo-green"/>
 </p>
 
@@ -28,7 +27,7 @@ Doença x Local, além de ser capaz de monitorar o aumento no número de casos e
 
 
 <h3 align="center"> [Integrantes] </h3>
-
+---
 
 > Eduarda Cavalheiro | RM95854 | 2TDSPG
 > 
