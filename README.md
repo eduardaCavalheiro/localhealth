@@ -1,6 +1,6 @@
 
 <h1 align="center">Local Health 🔍</h1>
- {c:#B81365} Descrição do Projeto {/c} 
+<kbd>{c:yellow}Descrição do Projeto {/c}</kbd>
 
 
  <p align="center">
