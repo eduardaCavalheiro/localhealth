@@ -15,7 +15,7 @@
 <br>
 <br>
 
- <p style="text-align: center;">:hammer: Como será implementado</p>
+# :hammer: Como será implementado
 
 
 - Durante uma consulta, o médico irá registrar casos de doenças 
