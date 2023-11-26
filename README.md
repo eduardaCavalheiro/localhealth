@@ -22,9 +22,6 @@
 > [!NOTE]
  <p align="center"> [Integrantes] </p>
  
-      Nome   | RM
-    ---------|----------
-    Eduarda  | 95854
-    Erik     | 93535
-    Ingrid   | 95396
-
+   |nome|rm|sala|
+| -------- | -------- | -------- |
+|Eduarda Cavalheiro|95854| 2TDSPG|
