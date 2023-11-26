@@ -23,11 +23,9 @@ forma, será possível obter informações e observar se existe relação entre
 Doença x Local, além de ser capaz de monitorar o aumento no número de casos e quando esse crescimento teve início;
 <br>
 
-
-<h3 align="center"> [Integrantes] </h3>
-
 ---
 
+<h3 align="center"> [Integrantes] </h3>
 
 |       Nome         |   RM   |  Turma  |
 |:------------------:|:------:|:-------:|
