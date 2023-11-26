@@ -6,7 +6,7 @@
  <p align="center">
 <img loading="lazy" src="https://img.shields.io/badge/status%3A-conclu%C3%ADdo-green"/>
 </p>
-
+<br>
 
 <p> A Localização precisa e quando se iniciam novas epidemias pode ser uma dificuldade por diversos motivos atualmente. Fatores como áreas de subnotificação, sintomas genéricos e surtos esporádicos tornam essa tarefa complexa para a saúde pública. Compreendendo essa dificuldade, estamos propondo um sistema inovador para enfrentar esse cenário. </p>
 <p> Neste sistema, os médicos registram os diagnósticos dos pacientes junto a sua localização e data em um banco de dados centralizado. Essas informações permitiriam um monitoramento detalhado, revelando quando e onde surgem novos surtos.</p>
