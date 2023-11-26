@@ -27,6 +27,13 @@ Doença x Local, além de ser capaz de monitorar o aumento no número de casos e
 
 ***
 
+| Nome              | RM     | Turma  |
+|-------------------|--------|--------|
+| Eduarda Cavalheiro| 95854  | 2TDSPG |
+| Erik Siarkowski   | 93535  | 2TDST  |
+| Ingrid Vieira     | 95396  | 2TDSPG |
+
+
 > Eduarda Cavalheiro | RM95854 | 2TDSPG
 > 
 > Erik Siarkowski | RM93535 | 2TDST
