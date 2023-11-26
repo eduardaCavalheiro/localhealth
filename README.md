@@ -27,8 +27,7 @@ Doença x Local, além de ser capaz de monitorar o aumento no número de casos e
 > Todos os itens citados serão armazenados no banco de dados;
 
 
-
-### <center> [Integrantes] </center>
+<h1 align="center"> [Integrantes] </h1>
 
 
 > Eduarda Cavalheiro | RM95854 | 2TDSPG
