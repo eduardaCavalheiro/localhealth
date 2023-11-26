@@ -22,7 +22,6 @@
 > [!NOTE]
  <p align="center"> [Integrantes] </p>
 Alinhado a esquerda | Centralizado | Alinhado a direita
-:--------- | RM95854 | RM95396:
-Valor | Valor | Valor
+| rm93535 |  rm95854 | rm95396 |
 
 
