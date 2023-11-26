@@ -20,7 +20,7 @@
 - `Como Funciona`: descrição da funcionalidade 1
   
 > [!NOTE]
->  <p align="center">  [Integrantes] </p> 
+> align="center" [Integrantes] 
 
 
  
