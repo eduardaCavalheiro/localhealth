@@ -34,4 +34,4 @@ Doença x Local, além de ser capaz de monitorar o aumento no número de casos e
 > Ingrid Vieira | RM95396 | 2TDSPG
 
 > [!NOTE]
-> Projeto desenvolvido para a 2° Global Solution
+> Projeto desenvolvido para a 2ª Global Solution
