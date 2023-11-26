@@ -51,12 +51,5 @@ Doença x Local, além de ser capaz de monitorar o aumento no número de casos e
 </table>
 
 
-
-> Eduarda Cavalheiro | RM95854 | 2TDSPG
-> 
-> Erik Siarkowski | RM93535 | 2TDST
-> 
-> Ingrid Vieira | RM95396 | 2TDSPG
-
 > [!NOTE]
 > Projeto desenvolvido para a 2ª Global Solution
