@@ -14,7 +14,7 @@
 <br>
 <br>
 
- :hammer: Como funciona
+ <h1 align="center">:hammer: Como funciona</h1>
 
 
 - Durante uma consulta, o médico irá registrar casos de doenças 
